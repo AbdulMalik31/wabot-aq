@@ -1,6 +1,6 @@
 {
   "name": "JustBot-Server",
-  "version": "0.0.1",
+  "version": "0.1",
   "description": "WhatsApp Bot Made By Abdul Malik",
   "depecrated": false,
   "main": "index.js",
